@@ -7,3 +7,7 @@ We are a group of high school students who are passionate about volunteering and
 ## <a name="_56kfpodyq5td"></a>How should you use our service? 
 
 We have potential plays to expand in the future, but for the moment, we plan to only use and serve students in Washington State by providing them with a wide variety of opportunities that match with their opportunities through a database. From that database, students are able to find opportunities that align with their interests and causes and will have a direct link to sign up for that volunteer opportunity. This will provide them with a easy way of finding opportunities, as we do the hard work for them, and they are just able to use our database to find opportunities to make an impact in their community with soemthing they are passionate about and love. 
+
+## <a name="_56kfpodyq5td"></a>How should you use our service? 
+
+Visit our site to check out volunteer opportunities near you: https://www.houseoftutors.org/
